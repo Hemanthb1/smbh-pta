@@ -1,0 +1,20 @@
+{
+  "n_candidates": 98,
+  "snr_threshold": 3.0,
+  "n_detectable_q1": {
+    "NG12.5": 1,
+    "NG12.5+GWB": 1,
+    "+10yr+GWB": 3
+  },
+  "n_detectable_q05": {
+    "NG12.5": 1,
+    "NG12.5+GWB": 1,
+    "+10yr+GWB": 1
+  },
+  "max_snr": {
+    "NG12.5": 5.475615347544151,
+    "NG12.5+GWB": 4.05845429018444,
+    "+10yr+GWB": 7.141972430239476
+  },
+  "calibration_snr_at_published_h95": 3.713364489447439
+}
