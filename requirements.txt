@@ -1,0 +1,5 @@
+numpy
+pandas
+astropy
+matplotlib
+hasasia==1.2.3
